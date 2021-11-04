@@ -1,4 +1,4 @@
-package mvmod1lab05;
+package mvmod1lab05ex01;
 
 public class Individual {
 	private int[] chromosome;

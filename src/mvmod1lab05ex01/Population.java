@@ -1,4 +1,4 @@
-package mvmod1lab05;
+package mvmod1lab05ex01;
 
 import java.util.Arrays;
 import java.util.Comparator;
